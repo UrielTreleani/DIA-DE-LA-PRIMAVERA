@@ -15,7 +15,7 @@ function Hero() {
         </p>
       </div>
       <div className='hero__button-container'>
-        <VideoControls src="/video-prueba.mp4" poster="/POSTER-HERO.png"/>
+        <VideoControls src="video-prueba.mp4" poster="POSTER-HERO.png"/>
         <a className='hero__button' href="#card">
           Sigamos avanzando...
         </a>
